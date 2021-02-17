@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    font-family: 'Bebas Neue', cursive;
+}
+
+a{
+    color:rgb(7, 150, 71)
+}
+
+
+
+/*OPENING STYLE*/
+
+#opening{
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+    color: rgb(39, 39, 39);
+}
+
+
+
+.opening--smalldesc{
+    
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    text-align: center;
+    font-size: 40px;
+}
+
+.opening--smalldesc *{
+    padding: 20px;
+}
+
+.opening--links{
+    
+    display:grid;
+    grid-template-columns: auto auto;
+    
+}
+
+ .opening--smalldesc__contact{
+    text-decoration: overline;
+    padding: 10px;
+}
+
+.opening--links__button{
+    padding: 
+}
+
+.opening--links__button:hover,.opening--smalldesc__contact:hover{
+    color: black;
+}
+
+
+
+
+
+
+/*PROJECTS*/
+
+#projects{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(39, 39, 39);
+    color: white;
+    text-align: center;
+}
+
+.projects--list__project{
+    position: absolute;
+    top: 13%;
+    left: 50%;
+    transform: translate(-50%,0%);
+}
+
+.projects--list__project *{
+    margin: auto;
+    width: 500px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.projects--list__project p{
+    font-size: 1.2rem;
+}
+
+
+
+
+
+
+/*RESUME*/
+
+#resume{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+.resume--container{
+    width: 85%;
+    height: 85%;
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%,0%);
+    text-align: center;
+}
+
+.resume--container h2{
+    padding: 10px;
+    font-size: 40px;
+}
