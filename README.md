@@ -1,6 +1,6 @@
 # Portfolio with ReactJS
 
-Visit the live portfolio: [Parth's Portfolio](https://parth971.github.io/Portfolio-with-ReactJS/)
+Visit the live portfolio: [Adil's Portfolio](https://s-adil.netlify.app/)
 
 ## Description
 
