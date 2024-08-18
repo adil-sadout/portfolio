@@ -98,7 +98,7 @@ function Home() {
                     <Col lg={3}>
                         <div className="left-content-wraper text-center">
                             <div>
-                                <img  className="profilePicture" src={profilePicture} alt="Profile Picture" />
+                                <img  className="profilePicture" src={profilePicture}/>
                             </div>
                             <div className="name">Adil Sadout</div>
                             <div className="position">Software Developer</div>
