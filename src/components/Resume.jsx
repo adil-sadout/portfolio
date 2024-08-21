@@ -34,8 +34,8 @@ export default function Resume() {
 
                         <div className="detail-box" style={{ backgroundColor: "rgba(255, 227, 191, 0.7)" }}>
                             <div className="time-duration">2021 - Current</div>
-                            <div className="title">Freelancer Developer</div>
-                            <div className="school-or-clg">Upwork/Freelancer</div>
+                            <div className="title">Frontend Developer</div>
+                            <div className="school-or-clg">KDconcept</div>
                         </div>
                         <div className="detail-box">
                             <div className="time-duration">2022-2023</div>
