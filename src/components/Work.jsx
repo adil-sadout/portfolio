@@ -95,11 +95,16 @@ export default function Work() {
                         <div className="title">Portfolio Website</div>
                     </div>
                 </div>
+                
                 <div className="work-box">
-                    <Image src={todo_and_calculator_javascript_project} />
+                    <Image src={blogsite} />
                     <div className="work-details">
                         <div className="category">Web Development</div>
-                        <div className="title">Todo And Calculator Javascript Project</div>
+                        <div className="title">
+                            <a href="https://main--todoapp1265165345.netlify.app/" rel="noreferrer" target="_blank" >
+                                Todo ReactJS Project
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
