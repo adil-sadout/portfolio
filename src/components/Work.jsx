@@ -8,7 +8,7 @@ import brokers from "../assets/images/works/brokers.png";
 import blogsite from "../assets/images/works/blogsite.png";
 import bettercoffee from "../assets/images/works/bettercoffee.png";
 import portfolio_website from "../assets/images/works/portfolio_website.png";
-import todo from "../assets/images/works/todo_javascript_project.jpg";
+import todo from "../assets/images/works/todo_javascript_project.png";
 
 export default function Work() {
     return (
