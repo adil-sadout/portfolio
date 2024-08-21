@@ -58,7 +58,7 @@ export default function Work() {
                         <div className="category">Web Development</div>
                         <div className="title">
                             <a href="https://bettercoffeereact.netlify.app/" rel="noreferrer" target="_blank" >
-                                BetterCoffee Ecom Site
+                                BetterCoffee E-commerce Site
                             </a>
                         </div>
                     </div>
@@ -70,7 +70,7 @@ export default function Work() {
                         <div className="category">Web Development</div>
                         <div className="title">
                             <a href="https://myboxingdz.com/" rel="noreferrer" target="_blank" >
-                                MyBoxingDz Ecom Website
+                                MyBoxingDz E-commerce Website
                             </a>
                         </div>
                     </div>
@@ -95,7 +95,7 @@ export default function Work() {
                         <div className="title">Portfolio Website</div>
                     </div>
                 </div>
-                
+
                 <div className="work-box">
                     <Image src={blogsite} />
                     <div className="work-details">
