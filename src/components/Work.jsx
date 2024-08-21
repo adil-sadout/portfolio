@@ -8,7 +8,7 @@ import brokers from "../assets/images/works/brokers.png";
 import blogsite from "../assets/images/works/blogsite.png";
 import bettercoffee from "../assets/images/works/bettercoffee.png";
 import portfolio_website from "../assets/images/works/portfolio_website.png";
-import todo_and_calculator_javascript_project from "../assets/images/works/todo_and_calculator_javascript_project.jpg";
+import todo from "../assets/images/works/todo_javascript_project.jpg";
 
 export default function Work() {
     return (
@@ -97,7 +97,7 @@ export default function Work() {
                 </div>
 
                 <div className="work-box">
-                    <Image src={blogsite} />
+                    <Image src={todo} />
                     <div className="work-details">
                         <div className="category">Web Development</div>
                         <div className="title">
