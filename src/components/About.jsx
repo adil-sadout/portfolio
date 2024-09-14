@@ -11,7 +11,7 @@ export default function About() {
             </div>
             <div className="about-me">
             <br />
-            Hi, I'm Adil Sadout 😄, a front-end developer with 3 years of experience working with technologies like JavaScript, React, Material UI, Bootstrap, Git, Node.js, MongoDB, and WordPress. I've honed my skills through freelance and contract work, delivering responsive and user-friendly interfaces that meet client needs.
+            Hi, I'm Adil Sadout 😄, a Web Developer and IT Technician, I am passionate about creating efficient and user-friendly web applications while providing top-notch technical support. With a focus on building robust web interfaces and handling backend functionalities, I am dedicated to delivering high-quality solutions that meet both user experience and technical needs.
             <br />
             <br />
             In addition to my development expertise, I have a background in technical support, having worked for companies like Hostinger, FTX, and Binance. This experience has given me a deep understanding of client expectations and effective communication. I'm excited to bring my technical know-how and client-focused approach to your next project. Let's discuss how I can contribute to your success! 💻🌐
